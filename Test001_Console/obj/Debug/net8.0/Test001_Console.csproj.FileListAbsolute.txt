@@ -1,0 +1,14 @@
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\bin\Debug\net8.0\Test001_Console.exe
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\bin\Debug\net8.0\Test001_Console.deps.json
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\bin\Debug\net8.0\Test001_Console.runtimeconfig.json
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\bin\Debug\net8.0\Test001_Console.dll
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\bin\Debug\net8.0\Test001_Console.pdb
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\obj\Debug\net8.0\Test001_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\obj\Debug\net8.0\Test001_Console.AssemblyInfoInputs.cache
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\obj\Debug\net8.0\Test001_Console.AssemblyInfo.cs
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\obj\Debug\net8.0\Test001_Console.csproj.CoreCompileInputs.cache
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\obj\Debug\net8.0\Test001_Console.dll
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\obj\Debug\net8.0\refint\Test001_Console.dll
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\obj\Debug\net8.0\Test001_Console.pdb
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\obj\Debug\net8.0\Test001_Console.genruntimeconfig.cache
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\obj\Debug\net8.0\ref\Test001_Console.dll
