@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Учеба 50_D disk\\GeekBrains\\GitHub\\2_New Program Lang\\Test001_Console\\Test001_Console.csproj",
+      "projectUniqueName": "D:\\Учеба 50_D disk\\GeekBrains\\GitHub\\2_C_sh_Lecture\\Test001_Console\\Test001_Console.csproj",
       "projectName": "Test001_Console",
-      "projectPath": "D:\\Учеба 50_D disk\\GeekBrains\\GitHub\\2_New Program Lang\\Test001_Console\\Test001_Console.csproj",
+      "projectPath": "D:\\Учеба 50_D disk\\GeekBrains\\GitHub\\2_C_sh_Lecture\\Test001_Console\\Test001_Console.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Учеба 50_D disk\\GeekBrains\\GitHub\\2_New Program Lang\\Test001_Console\\obj\\",
+      "outputPath": "D:\\Учеба 50_D disk\\GeekBrains\\GitHub\\2_C_sh_Lecture\\Test001_Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

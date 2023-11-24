@@ -12,3 +12,4 @@ D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\obj
 D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\obj\Debug\net8.0\Test001_Console.pdb
 D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\obj\Debug\net8.0\Test001_Console.genruntimeconfig.cache
 D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\obj\Debug\net8.0\ref\Test001_Console.dll
+D:\Учеба 50_D disk\GeekBrains\GitHub\2_New Program Lang\Test001_Console\obj\Debug\net8.0\Test001_Console.sourcelink.json
