@@ -5,7 +5,7 @@ int find = 18;
 
 int index = 0;
 
-while (index < n)
+while (index < n)  // данным циклом находим индекс искомого числа и выводим его на печать
 {
     if (array[index] == find)
     {
